@@ -12,7 +12,7 @@ The policy covers the following areas:
 - Review and update process for the policy
 
 ## Downloading and Using the Policy
-To access and modify the policy for your own organization, simply navigate to the AI_usage_policy.txt file in this repository and click on it to view the contents. You can then copy and paste the contents into a new text file, and customize it to fit your specific needs.
+To access and modify the policy for your own organization, simply navigate to the [AI_usage_policy.md](https://github.com/FawazAM/AI-Usage-Policy/blob/main/AI_usage_policy.md) file in this repository and click on it to view the contents. You can then copy and paste the contents into a new text file, and customize it to fit your specific needs.
 
 We encourage organizations to review and update the policy on a regular basis to ensure that it remains effective and up-to-date. By keeping the policy as a text file in this repository, you can easily track and manage changes over time, and collaborate with others to improve the policy based on evolving best practices and new developments in AI.
 
